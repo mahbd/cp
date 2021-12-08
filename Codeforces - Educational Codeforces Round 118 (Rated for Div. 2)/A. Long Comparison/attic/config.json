@@ -1,0 +1,21 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/.acmx/solutions/Codeforces - Educational Codeforces Round 118 (Rated for Div. 2)/A. Long Comparison/sol.cpp"
+  },
+  "bruteSolution": {
+    "value": "/home/mah/.acmx/solutions/Codeforces - Educational Codeforces Round 118 (Rated for Div. 2)/A. Long Comparison/brute.cpp"
+  },
+  "generator": {
+    "value": "/home/mah/.acmx/solutions/Codeforces - Educational Codeforces Round 118 (Rated for Div. 2)/A. Long Comparison/gen.py"
+  },
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Long Comparison",
+      "group": "Codeforces - Educational Codeforces Round 118 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1613/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

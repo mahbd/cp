@@ -1,0 +1,12 @@
+In file included from [01m[K/usr/include/c++/10/bits/stl_algobase.h:71[m[K,
+                 from [01m[K/usr/include/c++/10/bits/specfun.h:45[m[K,
+                 from [01m[K/usr/include/c++/10/cmath:1927[m[K,
+                 from [01m[K/usr/include/x86_64-linux-gnu/c++/10/bits/stdc++.h:41[m[K,
+                 from [01m[K/home/mah/.acmx/solutions/Codeforces - Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)/B. William the Vigilant/sol.cpp:1[m[K:
+/usr/include/c++/10/bits/predefined_ops.h: In instantiation of ‘[01m[Kbool __gnu_cxx::__ops::_Iter_equals_val<_Value>::operator()(_Iterator) [with _Iterator = __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char> >; _Value = const char [4]][m[K’:
+[01m[K/usr/include/c++/10/bits/stl_algobase.h:1985:12:[m[K   required from ‘[01m[Ktypename std::iterator_traits< <template-parameter-1-1> >::difference_type std::__count_if(_InputIterator, _InputIterator, _Predicate) [with _InputIterator = __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char> >; _Predicate = __gnu_cxx::__ops::_Iter_equals_val<const char [4]>; typename std::iterator_traits< <template-parameter-1-1> >::difference_type = long int][m[K’
+[01m[K/usr/include/c++/10/bits/stl_algo.h:4086:29:[m[K   required from ‘[01m[Ktypename std::iterator_traits< <template-parameter-1-1> >::difference_type std::count(_IIter, _IIter, const _Tp&) [with _IIter = __gnu_cxx::__normal_iterator<char*, std::__cxx11::basic_string<char> >; _Tp = char [4]; typename std::iterator_traits< <template-parameter-1-1> >::difference_type = long int][m[K’
+[01m[K/home/mah/.acmx/solutions/Codeforces - Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)/B. William the Vigilant/sol.cpp:14:45:[m[K   required from here
+[01m[K/usr/include/c++/10/bits/predefined_ops.h:268:17:[m[K [01;31m[Kerror: [m[KISO C++ forbids comparison between pointer and integer [[01;31m[K-fpermissive[m[K]
+  268 |  { return [01;31m[K*__it == _M_value[m[K; }
+      |           [01;31m[K~~~~~~^~~~~~~~~~~[m[K

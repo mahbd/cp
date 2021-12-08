@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/.acmx/solutions/Codeforces - Codeforces Round #737 (Div. 2)/D. Ezzat and Grid/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Ezzat and Grid",
+      "group": "Codeforces - Codeforces Round #737 (Div. 2)",
+      "url": "https://codeforces.com/contest/1557/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2500
+    }
+  }
+}

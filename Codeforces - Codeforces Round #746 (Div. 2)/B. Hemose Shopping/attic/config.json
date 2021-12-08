@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/.acmx/solutions/Codeforces - Codeforces Round #746 (Div. 2)/B. Hemose Shopping/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Hemose Shopping",
+      "group": "Codeforces - Codeforces Round #746 (Div. 2)",
+      "url": "https://codeforces.com/contest/1592/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

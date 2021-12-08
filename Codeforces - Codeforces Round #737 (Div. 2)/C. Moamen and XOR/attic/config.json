@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/.acmx/solutions/Codeforces - Codeforces Round #737 (Div. 2)/C. Moamen and XOR/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Moamen and XOR",
+      "group": "Codeforces - Codeforces Round #737 (Div. 2)",
+      "url": "https://codeforces.com/contest/1557/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

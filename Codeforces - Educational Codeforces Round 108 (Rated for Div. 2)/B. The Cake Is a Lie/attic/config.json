@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/.acmx/solutions/Codeforces - Educational Codeforces Round 108 (Rated for Div. 2)/B. The Cake Is a Lie/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. The Cake Is a Lie",
+      "group": "Codeforces - Educational Codeforces Round 108 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1519/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}
