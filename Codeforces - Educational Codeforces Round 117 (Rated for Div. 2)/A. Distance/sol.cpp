@@ -7,6 +7,14 @@ using namespace std;
  
 int main() {
     fast_input;
-    
+    tc() {
+        ll x, y;
+        cin >> x >> y;
+        if ((x + y) % 2 == 1) {
+            cout << "-1 -1" << endl;
+        } else {
+            cout << floor(x / 2.0) << " " << ceil(y / 2.0) << endl;
+        }
+    }
     return 0;
 }

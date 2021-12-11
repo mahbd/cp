@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Educational Codeforces Round 117 (Rated for Div. 2)\\A. Distance\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Distance",
+      "group": "Codeforces - Educational Codeforces Round 117 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1612/A",
+      "memoryLimit": 512,
+      "timeLimit": 3000
+    }
+  }
+}

@@ -1,15 +1,15 @@
 {
   "mainSolution": {
-    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Educational Codeforces Round 118 (Rated for Div. 2)\\A. Long Comparison\\sol.cpp"
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Educational Codeforces Round 118 (Rated for Div. 2)\\C. Poisoned Dagger\\sol.cpp"
   },
   "bruteSolution": {},
   "generator": {},
   "checker": {},
   "companionConfig": {
     "value": {
-      "name": "A. Long Comparison",
+      "name": "C. Poisoned Dagger",
       "group": "Codeforces - Educational Codeforces Round 118 (Rated for Div. 2)",
-      "url": "https://codeforces.com/contest/1613/problem/A",
+      "url": "https://codeforces.com/contest/1613/problem/C",
       "memoryLimit": 256,
       "timeLimit": 2000
     }

@@ -1,0 +1,12 @@
+{
+    "preRun": [
+        "g++",
+        "-fdiagnostics-color=always",
+        "$CODE",
+        "-o",
+        "$OUTPUT",
+        "--debug"
+    ],
+    "run": ["$OUTPUT"],
+    "ext": "cpp"
+}
