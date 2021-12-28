@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Codeforces Round #762 (Div. 3)\\H. Permutation and Queries\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "H. Permutation and Queries",
+      "group": "Codeforces - Codeforces Round #762 (Div. 3)",
+      "url": "https://codeforces.com/contest/1619/problem/H",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

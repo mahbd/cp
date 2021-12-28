@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Codeforces Round #762 (Div. 3)\\G. Unusual Minesweeper\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Unusual Minesweeper",
+      "group": "Codeforces - Codeforces Round #762 (Div. 3)",
+      "url": "https://codeforces.com/contest/1619/problem/G",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

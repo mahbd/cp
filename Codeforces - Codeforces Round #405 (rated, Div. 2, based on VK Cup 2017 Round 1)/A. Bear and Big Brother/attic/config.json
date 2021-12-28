@@ -1,0 +1,28 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Codeforces Round #405 (rated, Div. 2, based on VK Cup 2017 Round 1)\\A. Bear and Big Brother\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Bear and Big Brother",
+      "group": "Codeforces - Codeforces Round #405 (rated, Div. 2, based on VK Cup 2017 Round 1)",
+      "url": "https://codeforces.com/contest/791/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  },
+  "autoTutorial": {
+    "name": "Bear and Big Brother",
+    "url": "https://codeforces.com/contest/791/problem/A",
+    "shortDescription": [
+      "Bear Limak wants to become the largest of bears, or at least to become larger than his brother Bob",
+      "Limak's weight is smaller than or equal to his brother's weight",
+      "weight is tripled",
+      "weight is doubled"
+    ],
+    "solution": "Just run a while loop and check if Limak's weight is greater than Bob's weight. If it is, then break the loop and print how many iteration it took to get to the condition."
+  }
+}

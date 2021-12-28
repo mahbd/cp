@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\HackerRank - Mathematics - Combinatorics\\Picking Cards\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Picking Cards",
+      "group": "HackerRank - Mathematics - Combinatorics",
+      "url": "https://www.hackerrank.com/challenges/picking-cards/problem",
+      "memoryLimit": 512,
+      "timeLimit": 4000
+    }
+  }
+}

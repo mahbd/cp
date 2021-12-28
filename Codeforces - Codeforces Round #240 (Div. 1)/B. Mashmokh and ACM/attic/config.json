@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Codeforces Round #240 (Div. 1)\\B. Mashmokh and ACM\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Mashmokh and ACM",
+      "group": "Codeforces - Codeforces Round #240 (Div. 1)",
+      "url": "https://codeforces.com/problemset/problem/414/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

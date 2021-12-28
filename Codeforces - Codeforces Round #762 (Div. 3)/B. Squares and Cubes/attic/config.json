@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Codeforces Round #762 (Div. 3)\\B. Squares and Cubes\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Squares and Cubes",
+      "group": "Codeforces - Codeforces Round #762 (Div. 3)",
+      "url": "https://codeforces.com/contest/1619/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Codeforces Round #574 (Div. 2)\\C. Basketball Exercise\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Basketball Exercise",
+      "group": "Codeforces - Codeforces Round #574 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1195/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}
