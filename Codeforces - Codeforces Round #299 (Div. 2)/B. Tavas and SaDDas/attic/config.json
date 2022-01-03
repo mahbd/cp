@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Codeforces Round #299 (Div. 2)\\B. Tavas and SaDDas\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Tavas and SaDDas",
+      "group": "Codeforces - Codeforces Round #299 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/535/B",
+      "memoryLimit": 256,
+      "timeLimit": 10000
+    }
+  }
+}

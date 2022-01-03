@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mahmu\\projects\\cp2\\Codeforces - Codeforces Round #716 (Div. 2)\\B. AND 0, Sum Big\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. AND 0, Sum Big",
+      "group": "Codeforces - Codeforces Round #716 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1514/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}
