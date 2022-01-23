@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Projects\\competitive\\cp2\\Codeforces - Codeforces Round #767 (Div. 2)\\E. Grid Xor\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Grid Xor",
+      "group": "Codeforces - Codeforces Round #767 (Div. 2)",
+      "url": "https://codeforces.com/contest/1629/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

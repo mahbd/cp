@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Projects\\competitive\\cp2\\Codeforces - Codeforces Round #767 (Div. 2)\\F2. Game on Sum (Hard Version)\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F2. Game on Sum (Hard Version)",
+      "group": "Codeforces - Codeforces Round #767 (Div. 2)",
+      "url": "https://codeforces.com/contest/1629/problem/F2",
+      "memoryLimit": 256,
+      "timeLimit": 3000
+    }
+  }
+}
