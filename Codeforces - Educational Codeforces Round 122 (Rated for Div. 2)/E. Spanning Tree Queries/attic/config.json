@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/mnt/projects/competitive/cp2/Codeforces - Educational Codeforces Round 122 (Rated for Div. 2)/E. Spanning Tree Queries/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Spanning Tree Queries",
+      "group": "Codeforces - Educational Codeforces Round 122 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1633/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 4000
+    }
+  }
+}

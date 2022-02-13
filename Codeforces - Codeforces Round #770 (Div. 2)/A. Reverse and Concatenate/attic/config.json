@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/mnt/projects/competitive/cp2/Codeforces - Codeforces Round #770 (Div. 2)/A. Reverse and Concatenate/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Reverse and Concatenate",
+      "group": "Codeforces - Codeforces Round #770 (Div. 2)",
+      "url": "https://codeforces.com/contest/1634/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

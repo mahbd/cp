@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/mnt/projects/competitive/cp2/Codeforces - Codeforces Round #760 (Div. 3)/A. Polycarp and Sums of Subsequences/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Polycarp and Sums of Subsequences",
+      "group": "Codeforces - Codeforces Round #760 (Div. 3)",
+      "url": "https://codeforces.com/problemset/problem/1618/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

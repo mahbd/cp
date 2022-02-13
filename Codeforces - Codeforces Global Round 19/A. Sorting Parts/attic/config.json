@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/mnt/projects/competitive/cp2/Codeforces - Codeforces Global Round 19/A. Sorting Parts/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Sorting Parts",
+      "group": "Codeforces - Codeforces Global Round 19",
+      "url": "https://codeforces.com/contest/1637/problem/0",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

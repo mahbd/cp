@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/mnt/projects/competitive/cp2/Codeforces - Codeforces Round #770 (Div. 2)/B. Fortune Telling/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Fortune Telling",
+      "group": "Codeforces - Codeforces Round #770 (Div. 2)",
+      "url": "https://codeforces.com/contest/1634/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

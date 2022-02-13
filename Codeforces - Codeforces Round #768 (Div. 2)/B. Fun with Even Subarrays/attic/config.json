@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "F:\\competitive\\cp2\\Codeforces - Codeforces Round #768 (Div. 2)\\B. Fun with Even Subarrays\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Fun with Even Subarrays",
+      "group": "Codeforces - Codeforces Round #768 (Div. 2)",
+      "url": "https://codeforces.com/contest/1631/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
