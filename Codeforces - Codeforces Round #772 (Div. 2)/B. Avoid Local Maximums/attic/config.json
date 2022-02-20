@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp2/Codeforces - Codeforces Round #772 (Div. 2)/B. Avoid Local Maximums/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Avoid Local Maximums",
+      "group": "Codeforces - Codeforces Round #772 (Div. 2)",
+      "url": "https://codeforces.com/contest/1635/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

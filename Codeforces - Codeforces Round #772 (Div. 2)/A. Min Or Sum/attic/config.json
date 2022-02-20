@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp2/Codeforces - Codeforces Round #772 (Div. 2)/A. Min Or Sum/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Min Or Sum",
+      "group": "Codeforces - Codeforces Round #772 (Div. 2)",
+      "url": "https://codeforces.com/contest/1635/problem/0",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
