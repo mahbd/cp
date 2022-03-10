@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/Codeforces - Codeforces Round #776 (Div. 3)/F. Vitaly and Advanced Useless Algorithms/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Vitaly and Advanced Useless Algorithms",
+      "group": "Codeforces - Codeforces Round #776 (Div. 3)",
+      "url": "https://codeforces.com/contest/1650/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

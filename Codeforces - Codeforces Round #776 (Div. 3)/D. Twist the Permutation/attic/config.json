@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/Codeforces - Codeforces Round #776 (Div. 3)/D. Twist the Permutation/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Twist the Permutation",
+      "group": "Codeforces - Codeforces Round #776 (Div. 3)",
+      "url": "https://codeforces.com/contest/1650/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

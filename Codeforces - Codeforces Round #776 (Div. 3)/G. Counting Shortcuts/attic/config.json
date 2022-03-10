@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/Codeforces - Codeforces Round #776 (Div. 3)/G. Counting Shortcuts/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G. Counting Shortcuts",
+      "group": "Codeforces - Codeforces Round #776 (Div. 3)",
+      "url": "https://codeforces.com/contest/1650/problem/G",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

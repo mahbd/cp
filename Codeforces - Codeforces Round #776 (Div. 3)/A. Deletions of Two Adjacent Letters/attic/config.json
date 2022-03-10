@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/Codeforces - Codeforces Round #776 (Div. 3)/A. Deletions of Two Adjacent Letters/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Deletions of Two Adjacent Letters",
+      "group": "Codeforces - Codeforces Round #776 (Div. 3)",
+      "url": "https://codeforces.com/contest/1650/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}
