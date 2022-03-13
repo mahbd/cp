@@ -12,14 +12,6 @@ using namespace std;
 
 int main() {
     fast_input;
-    tc() {
-        ll l, r, a;
-        cin >> l >> r >> a;
-        if ((r % a >= ((r / a) * a - 1) % a) || ((r / a) * a - 1 < l)) {
-            cout << r % a + r / a << endl;
-        } else {
-            cout << ((r / a) * a - 1) % a + ((r / a) * a - 1) / a << endl;
-        }
-    }
+
     return 0;
 }

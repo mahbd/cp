@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/Codeforces - Educational Codeforces Round 124 (Rated for Div. 2)/A. Playoff/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Playoff",
+      "group": "Codeforces - Educational Codeforces Round 124 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contest/1651/problem/A",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

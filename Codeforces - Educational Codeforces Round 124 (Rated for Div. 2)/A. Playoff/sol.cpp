@@ -9,17 +9,23 @@ using namespace std;
     ll test_case;     \
     cin >> test_case; \
     for (ll tcv = 0; tcv < test_case; tcv++)
+const long MAX = 1000000000;
 
 int main() {
     fast_input;
     tc() {
-        ll l, r, a;
-        cin >> l >> r >> a;
-        if ((r % a >= ((r / a) * a - 1) % a) || ((r / a) * a - 1 < l)) {
-            cout << r % a + r / a << endl;
-        } else {
-            cout << ((r / a) * a - 1) % a + ((r / a) * a - 1) / a << endl;
+        ll n, s = 1;
+        cin >> n;
+        if (n > 19) {
+            cout << "NO" << endl;
+            continue;
         }
+        cout << "YES" << endl << s;
+        for (ll i = 1; i < n; i++) {
+            s = s * 3;
+            cout << " " << s;
+        }
+        cout << endl;
     }
     return 0;
 }
