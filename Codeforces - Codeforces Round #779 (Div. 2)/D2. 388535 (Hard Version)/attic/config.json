@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/Codeforces - Codeforces Round #779 (Div. 2)/D2. 388535 (Hard Version)/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D2. 388535 (Hard Version)",
+      "group": "Codeforces - Codeforces Round #779 (Div. 2)",
+      "url": "https://codeforces.com/contest/1658/problem/D2",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
