@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Codeforces - Codeforces Round #257 (Div. 2)\\A. Jzzhu and Children\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Jzzhu and Children",
+      "group": "Codeforces - Codeforces Round #257 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/450/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
