@@ -1,6 +1,6 @@
 {
   "mainSolution": {
-    "value": "/mnt/projects/competitive/cp2/Codeforces - Codeforces Round #769 (Div. 2)/B. Roof Construction/sol.cpp"
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Codeforces - Codeforces Round #769 (Div. 2)\\B. Roof Construction\\sol.cpp"
   },
   "bruteSolution": {},
   "generator": {},
@@ -9,7 +9,7 @@
     "value": {
       "name": "B. Roof Construction",
       "group": "Codeforces - Codeforces Round #769 (Div. 2)",
-      "url": "https://codeforces.com/contest/1632/problem/B",
+      "url": "https://codeforces.com/problemset/problem/1632/B",
       "memoryLimit": 256,
       "timeLimit": 1000
     }
