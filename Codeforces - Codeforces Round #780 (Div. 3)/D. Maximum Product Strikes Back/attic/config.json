@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/Codeforces - Codeforces Round #780 (Div. 3)/D. Maximum Product Strikes Back/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Maximum Product Strikes Back",
+      "group": "Codeforces - Codeforces Round #780 (Div. 3)",
+      "url": "https://codeforces.com/contest/1660/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/Codeforces - Codeforces Round #780 (Div. 3)/B. Vlad and Candies/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Vlad and Candies",
+      "group": "Codeforces - Codeforces Round #780 (Div. 3)",
+      "url": "https://codeforces.com/contest/1660/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
