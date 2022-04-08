@@ -15,19 +15,15 @@ int main() {
     tc() {
         ll n;
         cin >> n;
-        ll k = 1;
-        while (2 * k < n) {
-            k *= 2;
+        vector<ll> arr(n);
+        for (auto &i : arr) cin >> i;
+        ll ans = 0;
+        for (ll i = 0; i < n - 1; i++) {
+            auto min_ele = min_element(arr.begin() + i, arr.end());
+            reverse(arr.begin() + i, min_ele + 1);
+            ans += min_ele - arr.begin() - i + 1;
         }
-
-        for (int i = k - 1; i >= 0; i--) {
-            cout << i << " ";
-        }
-        for (int i = k; i < n; i++) {
-            cout << i << " ";
-        }
-        cout << endl;
-
+        printf("Case #%lld: %lld\n", tcv + 1, ans);
     }
     return 0;
 }

@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Codeforces - Educational Codeforces Round 119 (Rated for Div. 2)\\B. Triangles on a Rectangle\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Triangles on a Rectangle",
+      "group": "Codeforces - Educational Codeforces Round 119 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1620/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

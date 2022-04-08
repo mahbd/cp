@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Codeforces - Educational Codeforces Round 101 (Rated for Div. 2)\\B. Red and Blue\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Red and Blue",
+      "group": "Codeforces - Educational Codeforces Round 101 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1469/B",
+      "memoryLimit": 512,
+      "timeLimit": 2000
+    }
+  }
+}

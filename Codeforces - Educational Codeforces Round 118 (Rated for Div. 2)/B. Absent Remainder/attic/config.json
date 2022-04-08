@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Codeforces - Educational Codeforces Round 118 (Rated for Div. 2)\\B. Absent Remainder\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Absent Remainder",
+      "group": "Codeforces - Educational Codeforces Round 118 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1613/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

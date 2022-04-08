@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Google Coding Competitions - Qualification Round 2021 - Code Jam 2021\\Reversort\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Reversort",
+      "group": "Google Coding Competitions - Qualification Round 2021 - Code Jam 2021",
+      "url": "https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c",
+      "memoryLimit": 1024,
+      "timeLimit": 10000
+    }
+  }
+}

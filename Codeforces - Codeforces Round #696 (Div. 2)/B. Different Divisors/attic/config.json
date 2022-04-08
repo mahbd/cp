@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Codeforces - Codeforces Round #696 (Div. 2)\\B. Different Divisors\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Different Divisors",
+      "group": "Codeforces - Codeforces Round #696 (Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1474/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
