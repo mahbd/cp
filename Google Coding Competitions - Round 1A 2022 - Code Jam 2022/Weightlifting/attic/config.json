@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Google Coding Competitions - Round 1A 2022 - Code Jam 2022\\Weightlifting\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "Weightlifting",
+      "group": "Google Coding Competitions - Round 1A 2022 - Code Jam 2022",
+      "url": "https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280",
+      "memoryLimit": 1024,
+      "timeLimit": 20000
+    }
+  }
+}

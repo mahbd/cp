@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Codeforces - Educational Codeforces Round 123 (Rated for Div. 2)\\C. Increase Subarray Sums\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Increase Subarray Sums",
+      "group": "Codeforces - Educational Codeforces Round 123 (Rated for Div. 2)",
+      "url": "https://codeforces.com/problemset/problem/1644/C",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

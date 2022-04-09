@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Codeforces - Codeforces Round #781 (Div. 2)\\B. Array Cloning Technique\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Array Cloning Technique",
+      "group": "Codeforces - Codeforces Round #781 (Div. 2)",
+      "url": "https://codeforces.com/contest/1665/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

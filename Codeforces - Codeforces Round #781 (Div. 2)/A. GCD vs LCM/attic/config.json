@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Codeforces - Codeforces Round #781 (Div. 2)\\A. GCD vs LCM\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. GCD vs LCM",
+      "group": "Codeforces - Codeforces Round #781 (Div. 2)",
+      "url": "https://codeforces.com/contest/1665/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}
