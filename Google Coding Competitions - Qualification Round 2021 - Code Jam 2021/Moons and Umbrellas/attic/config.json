@@ -1,6 +1,10 @@
 {
   "mainSolution": {
+<<<<<<< HEAD
+    "value": "/home/mah/projects/cp/Google Coding Competitions - Qualification Round 2021 - Code Jam 2021/Moons and Umbrellas/sol.cpp"
+=======
     "value": "C:\\Users\\mah\\Documents\\projects\\cp\\Google Coding Competitions - Qualification Round 2021 - Code Jam 2021\\Moons and Umbrellas\\sol.cpp"
+>>>>>>> 8408a5de44ce0c2a867d32e1eda029583981b92f
   },
   "bruteSolution": {},
   "generator": {},

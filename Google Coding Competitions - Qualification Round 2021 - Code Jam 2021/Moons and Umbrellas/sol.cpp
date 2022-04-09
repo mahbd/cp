@@ -10,6 +10,9 @@ using namespace std;
     cin >> test_case; \
     for (ll tcv = 0; tcv < test_case; tcv++)
 
+<<<<<<< HEAD
+ll calculate_cost(const string &s, )
+=======
 ll count_ans(string s, ll x, ll y, ll start, ll end) {
     ll ans = 0;
     for (ll i = start + 1; i < end; i++) {
@@ -81,10 +84,17 @@ pair<ll, string> experiment4(string s, ll start, ll end, ll x, ll y) {
     ll ans = count_ans(s, x, y, start, end);
     return make_pair(ans, s);
 }
+>>>>>>> 8408a5de44ce0c2a867d32e1eda029583981b92f
 
 int main() {
     fast_input;
     tc() {
+<<<<<<< HEAD
+        ll a, b;
+        string s;
+        cin >> a >> b >> s;
+
+=======
         ll x, y;
         string s;
         cin >> x >> y >> s;
@@ -121,6 +131,7 @@ int main() {
         }
         ans = count_ans(s, x, y, 0, s.size());
         printf("Case #%lld: %lld\n", tcv + 1, ans);
+>>>>>>> 8408a5de44ce0c2a867d32e1eda029583981b92f
     }
     return 0;
 }

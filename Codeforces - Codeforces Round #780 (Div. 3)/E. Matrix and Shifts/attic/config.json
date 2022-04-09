@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/Codeforces - Codeforces Round #780 (Div. 3)/E. Matrix and Shifts/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "E. Matrix and Shifts",
+      "group": "Codeforces - Codeforces Round #780 (Div. 3)",
+      "url": "https://codeforces.com/contest/1660/problem/E",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}
