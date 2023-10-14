@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/acmx/Codeforces - Codeforces Round 903 (Div. 3)/D. Divide and Equalize/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "D. Divide and Equalize",
+      "group": "Codeforces - Codeforces Round 903 (Div. 3)",
+      "url": "https://codeforces.com/contest/1881/problem/D",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

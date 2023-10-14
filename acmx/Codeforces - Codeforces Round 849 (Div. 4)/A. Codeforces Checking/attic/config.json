@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/acmx/Codeforces - Codeforces Round 849 (Div. 4)/A. Codeforces Checking/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Codeforces Checking",
+      "group": "Codeforces - Codeforces Round 849 (Div. 4)",
+      "url": "https://codeforces.com/contest/1791/problem/A",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

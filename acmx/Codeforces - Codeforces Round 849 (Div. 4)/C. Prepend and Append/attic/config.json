@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/acmx/Codeforces - Codeforces Round 849 (Div. 4)/C. Prepend and Append/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "C. Prepend and Append",
+      "group": "Codeforces - Codeforces Round 849 (Div. 4)",
+      "url": "https://codeforces.com/contest/1791/problem/C",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

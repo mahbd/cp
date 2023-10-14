@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/acmx/Codeforces - Codeforces Round 849 (Div. 4)/G1. Teleporters (Easy Version)/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "G1. Teleporters (Easy Version)",
+      "group": "Codeforces - Codeforces Round 849 (Div. 4)",
+      "url": "https://codeforces.com/contest/1791/problem/G1",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

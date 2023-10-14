@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "/home/mah/projects/cp/acmx/Codeforces - Codeforces Round 849 (Div. 4)/F. Range Update Point Query/sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "F. Range Update Point Query",
+      "group": "Codeforces - Codeforces Round 849 (Div. 4)",
+      "url": "https://codeforces.com/contest/1791/problem/F",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}

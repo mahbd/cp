@@ -1,0 +1,6 @@
+**/.vscode
+acmx/checkers/wcmp
+acmx/attic/wcmp.cpp.md5
+**/sol
+*.md5
+*.out
