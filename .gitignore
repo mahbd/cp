@@ -4,3 +4,7 @@ acmx/attic/wcmp.cpp.md5
 **/sol
 *.md5
 *.out
+acmx/checkers/wcmp.exe
+**/sol.exe
+acmx/checkers/testlib.h
+acmx/checkers/wcmp.cpp

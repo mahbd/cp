@@ -1,9 +1,13 @@
 {
   "mainSolution": {
-    "value": "/home/mah/projects/cp/acmx/Codeforces - Codeforces Round 849 (Div. 4)/E. Negatives and Positives/sol.cpp"
+    "value": "E:\\cp\\acmx\\Codeforces - Codeforces Round 849 (Div. 4)\\E. Negatives and Positives\\sol.cpp"
   },
-  "bruteSolution": {},
-  "generator": {},
+  "bruteSolution": {
+    "value": "e:\\cp\\acmx\\Codeforces - Codeforces Round 849 (Div. 4)\\E. Negatives and Positives\\brute.cpp"
+  },
+  "generator": {
+    "value": "e:\\cp\\acmx\\Codeforces - Codeforces Round 849 (Div. 4)\\E. Negatives and Positives\\gen.py"
+  },
   "checker": {},
   "companionConfig": {
     "value": {
