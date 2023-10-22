@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "E:\\cp\\acmx\\Codeforces - Codeforces Round 904 (Div. 2)\\A. Simple Design\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "A. Simple Design",
+      "group": "Codeforces - Codeforces Round 904 (Div. 2)",
+      "url": "https://codeforces.com/contest/1884/problem/0",
+      "memoryLimit": 256,
+      "timeLimit": 1000
+    }
+  }
+}

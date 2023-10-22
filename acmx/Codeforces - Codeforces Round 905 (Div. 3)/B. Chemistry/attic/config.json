@@ -1,0 +1,17 @@
+{
+  "mainSolution": {
+    "value": "E:\\cp\\acmx\\Codeforces - Codeforces Round 905 (Div. 3)\\B. Chemistry\\sol.cpp"
+  },
+  "bruteSolution": {},
+  "generator": {},
+  "checker": {},
+  "companionConfig": {
+    "value": {
+      "name": "B. Chemistry",
+      "group": "Codeforces - Codeforces Round 905 (Div. 3)",
+      "url": "https://codeforces.com/contest/1883/problem/B",
+      "memoryLimit": 256,
+      "timeLimit": 2000
+    }
+  }
+}
